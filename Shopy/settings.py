@@ -56,7 +56,7 @@ ALLOWED_HOSTS = ["*"]
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "https://your-frontend.vercel.app",
+    "https://e-shop-frontend-drab.vercel.app",
 ]
 CORS_ALLOW_CREDENTIALS = True
 
